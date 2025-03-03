@@ -1,0 +1,19 @@
+{
+  "name": "simple-twitter-fetcher",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "twitter",
+    "scraper"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Simple Twitter account fetcher that prints tweets as JSON",
+  "dependencies": {
+    "agent-twitter-client": "^0.0.18",
+    "winston": "^3.17.0"
+  }
+}
