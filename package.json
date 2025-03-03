@@ -11,7 +11,7 @@
   ],
   "author": "",
   "license": "ISC",
-  "description": "Simple Twitter account fetcher that prints tweets as JSON",
+  "description": "A simple command-line tool to fetch tweets from specific Twitter accounts, save them to JSON files. ",
   "dependencies": {
     "agent-twitter-client": "^0.0.18",
     "winston": "^3.17.0"
